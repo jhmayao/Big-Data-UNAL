@@ -1,2 +1,2 @@
 # mi-primer-repositorio
-una mkda ahi
+mi primer repositorio
